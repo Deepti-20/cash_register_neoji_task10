@@ -47,3 +47,4 @@ function showMessage(msg) {
   message.style.display = "block";
   message.innerText = msg;
 }
+
